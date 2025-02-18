@@ -1,0 +1,7 @@
+**
+!*.md
+!*.png
+!icon.png
+!package.json
+!res
+!LICENSE
